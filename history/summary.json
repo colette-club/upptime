@@ -22,17 +22,17 @@
     "url": "https://app.colette.club/onboarding/guest",
     "icon": "https://favicons.githubusercontent.com/app.colette.club",
     "slug": "colette-app-guest-onboarding",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 3508,
-    "timeDay": 4596,
-    "timeWeek": 3717,
-    "timeMonth": 3849,
-    "timeYear": 3508,
+    "time": 3563,
+    "timeDay": 5127,
+    "timeWeek": 3911,
+    "timeMonth": 3900,
+    "timeYear": 3563,
     "dailyMinutesDown": {}
   }
 ]
