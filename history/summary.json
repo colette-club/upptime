@@ -12,8 +12,8 @@
     "uptimeYear": "100.00%",
     "time": 1806,
     "timeDay": 1830,
-    "timeWeek": 1221,
-    "timeMonth": 1806,
+    "timeWeek": 1116,
+    "timeMonth": 1925,
     "timeYear": 1806,
     "dailyMinutesDown": {}
   },
@@ -22,7 +22,7 @@
     "url": "https://app.colette.club/onboarding/guest",
     "icon": "https://favicons.githubusercontent.com/app.colette.club",
     "slug": "colette-app-guest-onboarding",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -30,8 +30,8 @@
     "uptimeYear": "100.00%",
     "time": 3508,
     "timeDay": 4596,
-    "timeWeek": 3802,
-    "timeMonth": 3508,
+    "timeWeek": 3717,
+    "timeMonth": 3849,
     "timeYear": 3508,
     "dailyMinutesDown": {}
   }
